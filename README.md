@@ -10,9 +10,9 @@ I’ve also refactored device setup flows using SwiftUI and Swift Concurrency, b
 
 ## Outside work
 
-- **Malmö Helps** is a SwiftUI app I built for volunteers supporting Ukrainian refugees. It helps them register participants, track attendance, and generate reports, with Firestore sync and offline support. [App Store](https://apps.apple.com/se/app/malm%C3%B6-helps/id1644551335)
+- **Malmö Helps** is a SwiftUI app I built for volunteers supporting Ukrainian refugees. It helps them register participants, track attendance, and generate reports, with Firestore sync and offline support. [App Store](https://apps.apple.com/se/app/malm%C3%B6-helps/id1644551335) · [SwiftUI source](https://github.com/piggest777/MalmoHelps)
 - **Paws of Peace** is a Flutter inventory app I built for volunteers across iOS, Android, and web.
-- **Eos Lund Basket** is a project I built for a local basketball club, with a published iOS app in Swift and an Android app in Kotlin. Both helped fans follow fixtures and results. [SwiftUI prototype](https://github.com/piggest777/eosLundSUI)
+- **Eos Lund Basket** is a project I built for a local basketball club, with a published iOS app in Swift and an Android app in Kotlin. Both helped fans follow fixtures and results. [Swift iOS source](https://github.com/piggest777/eosLund) · [Kotlin Android source](https://github.com/piggest777/EosLundKotlin)
 
 Before moving into software development, I practiced law.
 
